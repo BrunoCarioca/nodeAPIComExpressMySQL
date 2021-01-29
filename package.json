@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "api rest com expreess e mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoCarioca/nodeAPIComExpressMySQL.git"
+  },
+  "author": "Bruno Maia Fonseca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoCarioca/nodeAPIComExpressMySQL/issues"
+  },
+  "homepage": "https://github.com/BrunoCarioca/nodeAPIComExpressMySQL#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
